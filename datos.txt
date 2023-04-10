@@ -1,0 +1,3 @@
+vendedor, andres, gutierrez, andres@@@12, andres@gmail.com, 123456789
+comprador, alejandro, franco, alejandro@@12, alejandro@gmail.com, 123456789
+comprador, johan, hernandez, joahn@@@@234, johan@gmail.com, 123456789
